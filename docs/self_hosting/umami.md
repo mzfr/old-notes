@@ -8,7 +8,7 @@ Initially I was hosting [umami](https://github.com/umami-software/umami) on a di
 * Replace the content of the toml file with the following:
 
 ```toml
-app = "falconfeast-umami"
+app = "<YOUR_APP_NAME>"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
